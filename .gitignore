@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Python Bytecode
+__pycache__/
+.pytest_cache/
